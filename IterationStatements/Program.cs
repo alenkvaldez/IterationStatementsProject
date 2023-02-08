@@ -17,7 +17,7 @@ namespace IterationStatements
             //Create a variable of type int and name it num
             //initialize the variable with a value of 0
 
-            var myNum = 0;
+            int myNum = 0;
 
             do
             {
